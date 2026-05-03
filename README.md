@@ -1,7 +1,4 @@
-<p align="center">
-<img src="banner.png" alt="Ra1n Plugins Pack Banner" width="100%">
-</p>
-
+![Ra1n Plugins Pack Banner](docs/assets/banner.png)
 <h1 align="center">Ra1n Plugins Pack</h1>
 
 <p align="center">
