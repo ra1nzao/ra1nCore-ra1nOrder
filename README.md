@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/banner.png" alt="Ra1n Plugins Pack Banner" width="100%">
+  <img src="docs/assets/banner.png" alt="Ra1n Plugins Pack Banner" width="80%">
 </p>
 
 <h1 align="center">Ra1n Plugins Pack</h1>
