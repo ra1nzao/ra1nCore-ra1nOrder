@@ -1,4 +1,4 @@
-# Ra1n Plugins Pack
+# Ra1n Plugins Pack v1.0.0 - Ra1nCore + Ra1nOrder
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-Paper%201.21%2B-yellow)
 ![Java](https://img.shields.io/badge/Java-21-orange)
